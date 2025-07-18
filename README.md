@@ -29,22 +29,22 @@ This repository contains my daily Python practice programs as part of my 90-day 
 
 ## 📜 Certificates
 
-| Certificate Title            | Issued By       | Date         | View Certificate                           |
-|-----------------------------|------------------|--------------|---------------------------------------------|
-| Learn Python                | Geekster         | July 17, 2025 | [View](Certificates/geekster_python.pdf)    |
-| Git & GitHub Basics         | Cursa            | July 17, 2025 | [View](Certificates/cursa_git_github.pdf)   |
-| Python Proficiency – GFG    | GeeksforGeeks    | July 18, 2025 | [View](Certificates/gfg_python_cert.pdf)    |
+| Certificate Title            | Issued By       | Date         | View Certificate                                 |
+|-----------------------------|------------------|--------------|--------------------------------------------------|
+| Learn Python                | Geekster         | July 17, 2025 | [View](Certificates/Geekster_Learn_Python.pdf)   |
+| Git & GitHub Basics         | Cursa            | July 17, 2025 | [View](Certificates/Cursa_Git_GitHub.pdf)        |
+| Python Proficiency – GFG    | GeeksforGeeks    | July 18, 2025 | [View](Certificates/GFG_Python_Certificate.pdf)  |
+
+> 📝 Ensure these file names exactly match the actual PDFs in your `Certificates/` folder.
 
 ---
 
 ## 📌 Notes
 
 - Each program is saved in the `Python_Basics/Day1/` or `Day2/` folder.
+- Certificates are stored in the `Certificates/` folder.
 - This repo is a part of my 90-day career roadmap toward Python + Full Stack + GenAI.
 
 ---
 
 > Made with ❤️ by [B Bhavish Shetty](https://www.linkedin.com/in/b-bhavish-shetty-b7a1062b0)
-
-# Roadmap_2025  
-My structured 3-month journey to become a Software Engineer & Full Stack Developer with GenAI skills. Includes code, notes, certificates, and hands-on projects.
